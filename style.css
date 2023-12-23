@@ -1,0 +1,15 @@
+.event{
+    text-align: center;
+}
+.image{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.list{
+list-style-type: circle;
+}
+table,th,td{
+    border: 1px solid black;
+}
